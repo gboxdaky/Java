@@ -7,12 +7,12 @@ public class passendenDatenTyp {
         System.out.println("Distanz  = " + dist); 
 
         // Kilos
-        byte kg;
+        double kg;
         kg = 15;
         System.out.println("Kilos = " + kg); 
 
         // Alter 
-        int age;
+        byte age;
         age = 36;
         System.out.println("Alter  = " + age); 
 
