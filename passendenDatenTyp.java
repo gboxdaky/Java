@@ -17,7 +17,7 @@ public class passendenDatenTyp {
         System.out.println("Alter  = " + age); 
 
         // Konto 
-        int saldo;
+        double saldo;
         saldo = -2900;
         String chf = "CHF im Minus";
 
